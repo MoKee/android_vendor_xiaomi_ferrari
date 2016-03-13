@@ -451,7 +451,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/xiaomi/ferrari/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/xiaomi/ferrari/proprietary/bin/perfd:system/bin/perfd \
+    vendor/xiaomi/ferrari/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
     vendor/xiaomi/ferrari/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libdiag.so:system/vendor/lib64/libdiag.so \
